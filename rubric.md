@@ -35,16 +35,16 @@ __YES__ 1 pt: Program prints appropriate error messages
 
 ## General Items (10 pts):
 
-___YES__ 4 pts: Program executes fully & consistently without crashing (exception/freeze)
+__YES__ 4 pts: Program executes fully & consistently without crashing (exception/freeze)
 
-___YES__ 1 pt: Classes & class members all have header comments
+__YES__ 1 pt: Classes & class members all have header comments
 
-___YES__ 1 pt: Clear and consistent indentation
+__YES__ 1 pt: Clear and consistent indentation
 
-___YES__ 1 pt: Adheres to conventions on naming / capitalization
+__YES__ 1 pt: Adheres to conventions on naming / capitalization
 
-___YES__ 1 pt: Methods and variables all have clear and descriptive names
+__YES__ 1 pt: Methods and variables all have clear and descriptive names
 
-___YES__ 1 pt: All required files included with submission (including completed checklist file)
+__YES__ 1 pt: All required files included with submission (including completed checklist file)
 
-___YES__ 1 pt: `reflection.md` contains your reflection on the assignment
+__YES__ 1 pt: `reflection.md` contains your reflection on the assignment
