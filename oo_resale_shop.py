@@ -43,7 +43,7 @@ class ResaleShop:
             new_price: int
             c.price = new_price
         else:
-            print("Item", c, "not found. Cannot update price.")
+            print("Computer", c, " was not found. Cannot update price.")
         # this finds the computer, then updates the price given a new int price, and will replace the old price given 
 
     def refurbish(self, c: Computer, operating_system_new: str):
